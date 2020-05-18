@@ -3,7 +3,7 @@
 2. マイルストーンごとに、issueを立てる
 3. issueごとにブランチを切る  
    - [マイルストーン名]/[issue番号]_実施すること
-   - ex) EDUC-001/#1_add_main_component
+   - ex) %1/#1_add_main_component
 4. プルリク時に、説明文のところに
    ```
    close [issue番号]
