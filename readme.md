@@ -4,7 +4,9 @@
 3. issueごとにブランチを切る  
    - [マイルストーン名]/[issue番号]_実施すること
    - ex) %1/#1_add_main_component
-4. プルリク時に、説明文のところに
+4. commit時は issue番号を含める
+   - ex) #1 add: main_component
+5. プルリク時に、説明文のところに
    ```
    close [issue番号]
    ex) close #1
